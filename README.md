@@ -8,6 +8,8 @@ Since I received positive feedback, I would like to share it with more people.
 
 Originally this content was a workshop materials and I explain in live, therefore I tailored it to be self-study friendly.
 
+<img src="pipeline.jpg" width="500">
+
 Assumptions:
 - basic knowledge of Python 
 - understanding of machine learning basics (i.e. tutorial does not explain why we split data on train and test set)
